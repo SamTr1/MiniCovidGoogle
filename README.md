@@ -6,5 +6,11 @@ User-Friendly GUI: Developed a graphical user interface that ensures seamless na
 Sentence Breakdown Algorithm: Implemented an algorithm that analyzes user input, allowing for open-ended questions and flexible responses.
 COVID-19 Data Sorting: Utilized an insertion sort algorithm to organize COVID-19 data according to the user's specified criteria.
 Custom Search Algorithms: Programmed efficient search algorithms to provide quick and relevant results based on user queries.
+# Skills Utilized
+Python
+CSV
+GUI
+Algorithms
+Tkinter
 # Getting Started
 Clone the repository and follow the installation instructions to begin using the application. The GUI is designed to be intuitive, enabling users to easily input data, organize information, and search for specific queries.
